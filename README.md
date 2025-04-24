@@ -1,5 +1,5 @@
 # busca_megastore
-<h1>Sistema de Busca Otimizado para Catálogo de Produtos - MegaStore </h1>
+<h1>Sistema de Busca 🔎 Otimizado para Catálogo de Produtos - MegaStore </h1>
 Descrição do Projeto
 Este projeto consiste na implementação de um sistema de busca otimizado para o catálogo de produtos da "MegaStore", utilizando a linguagem de programação Rust. O objetivo do sistema é:
 - Permitir buscas rápidas e precisas em um catálogo extenso de produtos.
